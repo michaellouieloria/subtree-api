@@ -73,3 +73,4 @@ class HighScoresController < ApplicationController
     end
 end
 
+
