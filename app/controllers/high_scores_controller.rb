@@ -72,3 +72,4 @@ class HighScoresController < ApplicationController
       params.require(:high_score).permit(:game, :score)
     end
 end
+
